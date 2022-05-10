@@ -1,4 +1,4 @@
-import msvcrt
+from msvcrt import getch()
 import random
 from os import system
 def cls():
